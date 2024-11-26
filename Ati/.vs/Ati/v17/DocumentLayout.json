@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS01\\helloworld-oop-lab\\Ati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D242DF06-B668-4EA2-A7FD-9BD2E6662C1D}|Ati\\Ati.csproj|d:\\cs01\\helloworld-oop-lab\\ati\\ati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D242DF06-B668-4EA2-A7FD-9BD2E6662C1D}|Ati\\Ati.csproj|solutionrelative:ati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CS01\\helloworld-oop-lab\\Ati\\Ati\\Program.cs",
+              "RelativeDocumentMoniker": "Ati\\Program.cs",
+              "ToolTip": "D:\\CS01\\helloworld-oop-lab\\Ati\\Ati\\Program.cs",
+              "RelativeToolTip": "Ati\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:00:00.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

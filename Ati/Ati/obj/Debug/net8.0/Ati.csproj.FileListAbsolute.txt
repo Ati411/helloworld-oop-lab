@@ -1,0 +1,15 @@
+D:\CS01\helloworld-oop-lab\Ati\Ati\bin\Debug\net8.0\Ati.exe
+D:\CS01\helloworld-oop-lab\Ati\Ati\bin\Debug\net8.0\Ati.deps.json
+D:\CS01\helloworld-oop-lab\Ati\Ati\bin\Debug\net8.0\Ati.runtimeconfig.json
+D:\CS01\helloworld-oop-lab\Ati\Ati\bin\Debug\net8.0\Ati.dll
+D:\CS01\helloworld-oop-lab\Ati\Ati\bin\Debug\net8.0\Ati.pdb
+D:\CS01\helloworld-oop-lab\Ati\Ati\obj\Debug\net8.0\Ati.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS01\helloworld-oop-lab\Ati\Ati\obj\Debug\net8.0\Ati.AssemblyInfoInputs.cache
+D:\CS01\helloworld-oop-lab\Ati\Ati\obj\Debug\net8.0\Ati.AssemblyInfo.cs
+D:\CS01\helloworld-oop-lab\Ati\Ati\obj\Debug\net8.0\Ati.csproj.CoreCompileInputs.cache
+D:\CS01\helloworld-oop-lab\Ati\Ati\obj\Debug\net8.0\Ati.sourcelink.json
+D:\CS01\helloworld-oop-lab\Ati\Ati\obj\Debug\net8.0\Ati.dll
+D:\CS01\helloworld-oop-lab\Ati\Ati\obj\Debug\net8.0\refint\Ati.dll
+D:\CS01\helloworld-oop-lab\Ati\Ati\obj\Debug\net8.0\Ati.pdb
+D:\CS01\helloworld-oop-lab\Ati\Ati\obj\Debug\net8.0\Ati.genruntimeconfig.cache
+D:\CS01\helloworld-oop-lab\Ati\Ati\obj\Debug\net8.0\ref\Ati.dll
